@@ -18,3 +18,7 @@
 <h2>Task 5</h2>
 
 <img src="img/img5.png" alt="skrin.jpg">
+
+<h2>Task 6</h2>
+
+<img src="img/img.jpg" alt="skrin.jpg">
